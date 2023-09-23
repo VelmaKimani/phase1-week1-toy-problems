@@ -1,12 +1,12 @@
 # Phase 1 Week 1 Toy Problems
 
-##  Goals
+## SOlution Goals
 
 - Grade students depending on their scores between 0 and 100
 - Check speed of vehicle whether it is okay and suspend the driver's licence if the demerits gor beyond 12.
 - Calculate payee, NHIF deductions, NSSF deductions, gross salary and net salary.
 
-## Solution
+## Instructions
 Run `npm install` to install the node modules first.
 
 1. The solution for grading students is in the grade_generator.js file. Run `node grade_generator.js` to test the solution and view the student's grade. 
